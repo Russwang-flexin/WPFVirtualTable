@@ -1,0 +1,14 @@
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\bin\Debug\VirtualizingPanel.Wpf.exe.config
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\bin\Debug\VirtualizingPanel.Wpf.exe
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\bin\Debug\VirtualizingPanel.Wpf.pdb
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\VirtualizingPanel.Wpf.csprojAssemblyReference.cache
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\App.g.cs
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\VirtualizingPanel.Wpf_MarkupCompile.cache
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\VirtualizingPanel.Wpf_MarkupCompile.lref
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\MainWindow.baml
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\VirtualizingPanel.Wpf.g.resources
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\VirtualizingPanel.Wpf.Properties.Resources.resources
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\VirtualizingPanel.Wpf.csproj.GenerateResource.cache
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\VirtualizingPanel.Wpf.exe
+C:\Users\viruser.v-desktop\Desktop\VirtualizingPanel.Wpf\VirtualizingPanel.Wpf\obj\Debug\VirtualizingPanel.Wpf.pdb
